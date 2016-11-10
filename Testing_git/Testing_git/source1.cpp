@@ -2,9 +2,9 @@
 #include<stdlib.h>
 #include<iostream>
 int main() {
-
-	int a;
-	scanf("%d",&a);
+	int loop;
+	int sector_out,attack_unit;
+	scanf("%d",&loop);
 
 
 	return 0;
