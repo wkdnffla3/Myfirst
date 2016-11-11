@@ -5,7 +5,7 @@ int main() {
 	int loop;
 	int sector_out,attack_unit;
 	scanf("%d",&loop);
-
+	scanf("%d %d", &sector_out,&attack_unit );
 
 	return 0;
 }
