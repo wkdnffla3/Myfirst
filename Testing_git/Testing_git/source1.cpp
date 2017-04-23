@@ -20,8 +20,13 @@ int main() {
 		cin >> v[1][i];
 	}
 
+	for (int i = 0;;) {
+		cout << v[1][i];
+
+	}
 
 
+	printf("new line");
 
 
 	return 0;
