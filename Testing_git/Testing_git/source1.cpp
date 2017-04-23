@@ -27,6 +27,7 @@ int main() {
 
 
 	printf("new line");
+	printf("new line 2");
 
 
 	return 0;
