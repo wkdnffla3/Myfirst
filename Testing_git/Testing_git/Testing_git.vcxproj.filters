@@ -27,5 +27,8 @@
     <ClCompile Include="find_range.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="making_map.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
